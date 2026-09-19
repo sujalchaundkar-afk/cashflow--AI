@@ -339,7 +339,7 @@ Want to test all workflows in under 2 minutes? Try these quick scenarios:
 
 ## 🤝 Contributing & License
 
-Built with ❤️ for the **Razorpay Buildthon 2026**.  
+  
 Licensed under the [MIT License](LICENSE).
 
 <div align="center">
