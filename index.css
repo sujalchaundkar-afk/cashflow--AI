@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* App uses a light command-center theme (bg-slate-50). Keep the body in sync so
+   there is no dark flash before React mounts and no dark edges on overscroll. */
+html,
+body {
+  margin: 0;
+  background-color: #f8fafc; /* slate-50 */
+}
+
+body {
+  font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+}
