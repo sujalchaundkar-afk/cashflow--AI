@@ -2,7 +2,7 @@
 
 # ⚡ CashFlow AI
 ### Autonomous Accounts Receivable & AI-Powered Revenue Recovery Command Center
-**Built for Razorpay Buildthon 2026 — Track 3: AI Revenue Recovery**
+ Track 3: AI Revenue Recovery**
 
 [![Razorpay](https://img.shields.io/badge/Razorpay-Payment%20Rails-0C2340?style=for-the-badge&logo=razorpay&logoColor=3395FF)](https://razorpay.com)
 [![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-Llama%203.1%20%2F%203.2-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://build.nvidia.com)
