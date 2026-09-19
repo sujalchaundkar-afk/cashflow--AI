@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Local databases and locks
+backend/database.sqlite
+*.db
+*.sqlite
+
+# Production builds
+dist/
+build/
+frontend/dist/
+
+# Environmental variables
+.env
+backend/.env
+frontend/.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configuration
+.vscode/
+.idea/
+.gemini/
